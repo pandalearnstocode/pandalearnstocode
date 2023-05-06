@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aritra Biswas</h1>
-<h3 align="center">Working as Data Scientist at AB-InBev.</h3>
+<h3 align="center">Working as Senior Machine Learning Engineer at AB-InBev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandalearnstocode&label=Profile%20views&color=0e75b6&style=flat" alt="pandalearnstocode" /> </p>
 
-- 🔭 I’m currently working on **automated media mix marketing tool**
+- 🔭 I’m currently working on **Recommendation System & ML platform**
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **Python and R**
+- 💬 Ask me about **Python & R**
 
 - 📫 How to reach me **pandalearnstocode@gmail.com**
 
