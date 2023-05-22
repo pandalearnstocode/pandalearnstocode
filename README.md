@@ -4,11 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandalearnstocode&label=Profile%20views&color=0e75b6&style=flat" alt="pandalearnstocode" /> </p>
 
 - 🔭 I’m currently working on **Recommendation System & ML platform**
-
-- 🌱 I’m currently learning **TensorFlow**
-
-- 💬 Ask me about **Python & R**
-
 - 📫 How to reach me **pandalearnstocode@gmail.com**
 
 
