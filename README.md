@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aritra Biswas</h1>
-<h3 align="center">Working as Senior Machine Learning Engineer at AB-InBev.</h3>
+<h3 align="center">Working as ML Engineering lead at AB-InBev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandalearnstocode&label=Profile%20views&color=0e75b6&style=flat" alt="pandalearnstocode" /> </p>
 
-- 🔭 I’m currently working on **Recommendation System & ML platform**
+- 🔭 I’m currently working on **GenAI, Recommendation Engine, Marketing**
 - 📫 How to reach me **pandalearnstocode@gmail.com**
 
 
